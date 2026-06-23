@@ -11,8 +11,8 @@ ENV/
 env/
 
 # Data files
-data/*.csv
-!data/*.csv  # если хотим хранить небольшие файлы в репо
+# data/*.csv
+# !data/*.csv  # если хотим хранить небольшие файлы в репо
 *.pkl
 *.pt
 *.bin
@@ -36,3 +36,4 @@ models/
 .DS_Store
 Thumbs.db
 .env
+TODO
